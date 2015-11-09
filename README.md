@@ -1,2 +1,3 @@
-# microblog
-For flask tutorial
+## microblog
+Этот репозиторий создан для изучения Python/Flask
+
